@@ -15,5 +15,8 @@
     "morgan": "~1.9.1",
     "nodemon": "^2.0.15",
     "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "postcss-cli": "^9.0.2"
   }
 }
