@@ -1,4 +1,3 @@
-import "./style.css"
 import "./tailwind.css"
 import doors from "./doors";
 
@@ -8,7 +7,6 @@ function init() {
     const final_page = document.createElement('div');
     const wrapper = document.createElement('div');
     const task_div = document.createElement('div');
-    const link_div = document.createElement('div');
     const form = document.createElement('form');
     const inp = document.createElement('input');
     const btn = document.createElement('button');
